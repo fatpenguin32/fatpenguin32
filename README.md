@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning C#
 
 <!---
-pampu y pollo
+-pampu y pollo
 --->
