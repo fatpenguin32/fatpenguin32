@@ -1,5 +1,5 @@
-- 👋 Hi users of github, I’m @pedroflooxdDev
-- 👀 I’m interested in Lua,Haxeflixel and c#
+-  Hi users of github, I’m @pedroflooxdDev
+- i make sometimes haxe flixel and html stuff
 - yo mama
 
 <!---
