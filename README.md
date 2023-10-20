@@ -1,6 +1,6 @@
 -  hola que tal soy @pedroflooxdDev
 - de vez al tanto programo cosas por aburrimiento y las publico aqui
-- yo mama
+- si hay repositorios en ingles es porque me siento mas comodo hablar asi jejejejejjejejejejejejejej
 
 ![nashe](https://media.tenor.com/FR7VEYq4wv4AAAAC/pipe-bomb.gif)
 
