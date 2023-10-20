@@ -1,5 +1,5 @@
--  Hi users of github, I’m @pedroflooxdDev
-- i make sometimes haxe flixel,python and html stuff
+-  hola que tal soy @pedroflooxdDev
+- de vez al tanto programo cosas por aburrimiento y las publico aqui
 - yo mama
 
 ![nashe](https://media.tenor.com/FR7VEYq4wv4AAAAC/pipe-bomb.gif)
